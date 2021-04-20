@@ -81,7 +81,8 @@ class FlashArtPix:
 
     def save_image(self):
         image = pygame.surfarray.array3d(self.screen)
-        cv_image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+        image2 = cv2.transpose(image)
+        cv_image = cv2.cvtColor(image2, cv2.COLOR_BGR2RGB)
         cv2.imwrite(r'C:\Users\rebor\Desktop\Academics 2k21\Group Project 2k21\Combined2\output\Pixel_Flash_Art_Screenshot.png', cv_image)
 
     def execute(self):
