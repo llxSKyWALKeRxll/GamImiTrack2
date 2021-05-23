@@ -70,3 +70,11 @@ Have fun!
 ![19BCS2190_o14](https://user-images.githubusercontent.com/79057173/119277261-3ea51d00-bc3c-11eb-8a04-dec582121dbd.PNG)
 
 ![19BCS2190_o15](https://user-images.githubusercontent.com/79057173/119277262-3fd64a00-bc3c-11eb-8fd1-08b65f4c0a4e.PNG)
+
+![19BCS2190_o16](https://user-images.githubusercontent.com/79057173/119277313-888e0300-bc3c-11eb-9178-cee9250a0a65.PNG)
+
+![19BCS2190_o17](https://user-images.githubusercontent.com/79057173/119277317-8a57c680-bc3c-11eb-9de8-a46191f629e9.PNG)
+
+![19BCS2190_o20](https://user-images.githubusercontent.com/79057173/119277318-8c218a00-bc3c-11eb-9121-630330fb4999.PNG)
+
+![19BCS2190_o22](https://user-images.githubusercontent.com/79057173/119277321-8d52b700-bc3c-11eb-89e2-d3c2adfd6c05.PNG)
