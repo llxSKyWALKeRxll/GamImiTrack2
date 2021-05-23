@@ -54,3 +54,13 @@ The application should be good to go inside a minute.
 Have fun!    
 
 # PREVIEW SCREENSHOTS
+  
+  ![19BCS2190_o1](https://user-images.githubusercontent.com/79057173/119277193-d22a1e00-bc3b-11eb-95f9-9772b69cfcf3.PNG)
+
+![19BCS2190_o2](https://user-images.githubusercontent.com/79057173/119277194-d35b4b00-bc3b-11eb-8cc5-f7f9dad55399.PNG)
+
+![19BCS2190_o3](https://user-images.githubusercontent.com/79057173/119277196-d5250e80-bc3b-11eb-9880-dd7af6741676.PNG)
+
+![19BCS2190_o4](https://user-images.githubusercontent.com/79057173/119277199-d9512c00-bc3b-11eb-9892-e128da9616bb.PNG)
+
+![19BCS2190_o5](https://user-images.githubusercontent.com/79057173/119277202-da825900-bc3b-11eb-9734-d2148d954f1a.PNG)
